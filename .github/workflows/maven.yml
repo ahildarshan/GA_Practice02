@@ -11,7 +11,7 @@ on:
 jobs:
   build_test:
 
-    runs-on: windows-latest
+    runs-on: ubunts
 
     steps:
     - uses: actions/checkout@v3
